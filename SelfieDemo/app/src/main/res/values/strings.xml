@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Selfie Demo</string>
+    <string name="permission_request_camera_message">Camera permission is required to recognize face and hands</string>
+    <string name="permission_request_camera_rationale">To grant Camera permission to this app, please go to system settings</string>
+</resources>
